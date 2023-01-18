@@ -18,5 +18,7 @@ Below are the results:
 
 ## SUMMARY 
 Our findings suggest that 5-star reviews are not the most common in paid reviews. This implies that the tendency is for reviews to be more critical. To further confirm this statement, we could use a text analysis technique such as Term Frequency-Inverse Document Frequency Weight on the "review_body" to build a model and determine the overall tendency of the reviews.
+
+
 ![myimage-alt-tag](./Resources/Summary.png) 
    
